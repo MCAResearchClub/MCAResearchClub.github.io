@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+Welcome to Edison Academy's research club
 
-Template Name: HeroBiz
-Template URL: https://bootstrapmade.com/herobiz-bootstrap-business-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Website made and club founded by Ethan Poon and Aditya Kirubakaran

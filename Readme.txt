@@ -1,3 +1,3 @@
-Welcome to Edison Academy's research club
+Welcome to Edison Academy's Research Club!
 
-Website made and club founded by Ethan Poon and Aditya Kirubakaran
+Website made by Research Club Council
